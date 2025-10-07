@@ -14,3 +14,7 @@
 - C
 - C++
 - HTML
+
+## 便利なサイト
+- [GitHub](https://github.com)
+- [Qiita](https://qiita.com)
